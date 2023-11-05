@@ -1,0 +1,9 @@
+includes:
+    - /root/.composer/vendor/nunomaduro/larastan/extension.neon
+
+parameters:
+
+    #paths:
+    #    - app/
+
+    level: 5 # Level 9 is the highest level
